@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi, I'm Khayam Khan 👋
 
-<!--
-**khayamkkhan/khayamkkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SOC Analyst** (3 yrs) pivoting to **Cloud Security Architect**.
+Based in the Philippines 🇵🇭.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 Currently building
+**Microsoft Cybersecurity Architect Portfolio** — 9 hands-on Azure projects mapped to 9 Microsoft certs, from AZ-900 through SC-100. Each project ships with Bicep IaC, a threat model, MITRE-mapped attack scenarios, and an IR report where relevant.
+
+📂 [Azure Cybersecurity Portfolio](https://github.com/khayamkkhan?tab=repositories) *(in progress — Project 01 active)*
+
+---
+
+#### 🏅 Certifications
+
+- ✅ **AZ-900** — Azure Fundamentals *(2026)*
+- ✅ **eJPT** — Junior Penetration Tester *(INE)*
+- ✅ **CCDL1** — Certified CyberDefender Level 1 *(CyberDefenders)*
+- ✅ **CCDL2** — Certified CyberDefender Level 2 *(CyberDefenders)*
+- 🔄 **SC-900** — In progress (next)
+- 🎯 **SC-100** — Capstone target
+
+---
+
+#### 🛠️ Tech focus
+
+`Azure` · `Microsoft Sentinel` · `Defender XDR` · `KQL` · `Entra ID` · `Bicep` · `Purview` · `Zero Trust`
+
+---
+
+#### 📫 Connect
+
+- 🌐 Portfolio website *(coming after Project 02 ships)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/khankhayamk/)
+
+---
+
+> *"The bootstrap is the first attack surface."* — Project 01 ethos
