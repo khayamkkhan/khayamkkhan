@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khayamkkhan/khayamkkhan/main/assets/banner.jpeg" alt="Khayam Khan — SOC Analyst to Cloud Security Engineer, Azure" width="100%">
+</p>
+
 ### Hi, I'm Khayam Khan 👋
 
 **SOC Analyst → Cloud Security Engineer**, based in the Philippines 🇵🇭
