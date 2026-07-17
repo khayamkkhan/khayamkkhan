@@ -16,7 +16,7 @@ a SOC analyst reads an alert.
 #### 🎯 Currently building
 **Microsoft Cybersecurity Architect Portfolio** — 9 hands-on Azure projects mapped to 9
 Microsoft certs, AZ-900 through SC-100. Each ships with Bicep IaC, a threat model,
-MITRE-mapped attack scenarios, and proof it works. Three shipped so far:
+MITRE-mapped attack scenarios, and proof it works. Four shipped so far:
 
 <table>
 <tr>
@@ -36,19 +36,28 @@ MITRE-mapped attack scenarios, and proof it works. Three shipped so far:
   <b>03 · Hub-and-Spoke VNet</b><br><sub>AZ-104 · VNet · Bastion · App Service</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/khayamkkhan/azure-cs-04-azure-security-hardening">
+  <img src="https://raw.githubusercontent.com/khayamkkhan/azure-cs-04-azure-security-hardening/main/assets/infographic.png" width="100%"></a><br>
+  <b>04 · Azure Security Hardening</b><br><sub>AZ-500 · WAF · Private Endpoint · Key Vault · Defender</sub>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
-Azure Security Hardening (AZ-500) is next.
+Sentinel SOC Build-Out (SC-200) is next.
 
 ---
 
 #### 🏅 Certifications
 
 **Cloud / Microsoft**
+- ✅ AZ-500 — Azure Security Engineer
 - ✅ AZ-104 — Azure Administrator
 - ✅ SC-900 — Security, Compliance & Identity Fundamentals
 - ✅ AZ-900 — Azure Fundamentals
-- 🔄 AZ-500 — Azure Security Engineer *(in progress)*
 - 🎯 SC-100 — Cybersecurity Architect Expert *(capstone target)*
 
 **Defensive / Blue Team**
@@ -73,6 +82,7 @@ Azure Security Hardening (AZ-500) is next.
 #### ✍️ Write-ups
 Every project is a full write-up — the problem, the build, attack scenarios, proof, and
 what broke along the way:
+- [Hardening a live app without it losing access to its own secrets](https://github.com/khayamkkhan/azure-cs-04-azure-security-hardening#12-troubleshooting--lessons-learned) *(Project 04)*
 - [Designing around Azure regional capacity limits](https://github.com/khayamkkhan/azure-cs-03-hub-spoke-vnet#12-troubleshooting--lessons-learned) *(Project 03)*
 - [Why "connector connected" doesn't mean data is flowing](https://github.com/khayamkkhan/azure-cs-02-defender-sentinel-tour#12-troubleshooting--lessons-learned) *(Project 02)*
 
