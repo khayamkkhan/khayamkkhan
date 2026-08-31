@@ -6,8 +6,8 @@
 
 **SOC Analyst → Cloud Security Engineer**, based in the Philippines 🇵🇭
 
-~3 years in security operations (Microsoft Sentinel, KQL, incident response), now moving
-into cloud security engineering. I build more than I monitor, so I'm rebuilding Azure
+~3 years in security operations (Microsoft Sentinel, KQL, incident response), now a
+cloud security engineer. I build more than I monitor, so I'm rebuilding Azure
 security from the infrastructure up: as code, secured by default, and documented the way
 a SOC analyst reads an alert.
 
@@ -16,7 +16,7 @@ a SOC analyst reads an alert.
 #### 🎯 Currently building
 **Microsoft Cybersecurity Architect Portfolio** — 9 hands-on Azure projects mapped to 9
 Microsoft certs, AZ-900 through SC-100. Each ships with Bicep IaC, a threat model,
-MITRE-mapped attack scenarios, and proof it works. Four shipped so far:
+MITRE-mapped attack scenarios, and proof it works. Five shipped so far:
 
 <table>
 <tr>
@@ -42,18 +42,23 @@ MITRE-mapped attack scenarios, and proof it works. Four shipped so far:
   <img src="https://raw.githubusercontent.com/khayamkkhan/azure-cs-04-azure-security-hardening/main/assets/infographic.png" width="100%"></a><br>
   <b>04 · Azure Security Hardening</b><br><sub>AZ-500 · WAF · Private Endpoint · Key Vault · Defender</sub>
 </td>
-<td width="33%"></td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/khayamkkhan/azure-cs-05-sentinel-soc">
+  <img src="https://raw.githubusercontent.com/khayamkkhan/azure-cs-05-sentinel-soc/main/assets/infographic.png" width="100%"></a><br>
+  <b>05 · Sentinel SOC Build-Out</b><br><sub>SC-200 · Detection-as-Code · Bicep · SOAR</sub>
+</td>
 <td width="33%"></td>
 </tr>
 </table>
 
-Sentinel SOC Build-Out (SC-200) is next.
+Next up: Entra ID Zero Trust identity (SC-300).
 
 ---
 
 #### 🏅 Certifications
 
 **Cloud / Microsoft**
+- ✅ SC-200 — Security Operations Analyst
 - ✅ AZ-500 — Azure Security Engineer
 - ✅ AZ-104 — Azure Administrator
 - ✅ SC-900 — Security, Compliance & Identity Fundamentals
@@ -75,13 +80,14 @@ Sentinel SOC Build-Out (SC-200) is next.
 
 #### 🛠️ Tech focus
 
-`Azure` · `Microsoft Sentinel` · `Defender XDR` · `KQL` · `Entra ID` · `Bicep` · `Purview` · `Zero Trust`
+`Azure` · `Microsoft Sentinel` · `Defender XDR` · `KQL` · `Detection-as-Code` · `Bicep` · `Entra ID` · `MITRE ATT&CK` · `Zero Trust`
 
 ---
 
 #### ✍️ Write-ups
 Every project is a full write-up — the problem, the build, attack scenarios, proof, and
 what broke along the way:
+- [When a detection won't fire: the bin-boundary blind spot](https://github.com/khayamkkhan/azure-cs-05-sentinel-soc#12-troubleshooting--lessons-learned) *(Project 05)*
 - [Hardening a live app without it losing access to its own secrets](https://github.com/khayamkkhan/azure-cs-04-azure-security-hardening#12-troubleshooting--lessons-learned) *(Project 04)*
 - [Designing around Azure regional capacity limits](https://github.com/khayamkkhan/azure-cs-03-hub-spoke-vnet#12-troubleshooting--lessons-learned) *(Project 03)*
 - [Why "connector connected" doesn't mean data is flowing](https://github.com/khayamkkhan/azure-cs-02-defender-sentinel-tour#12-troubleshooting--lessons-learned) *(Project 02)*
